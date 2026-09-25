@@ -1,0 +1,6 @@
+streamlit>=1.45.0
+groq>=0.30.0
+scikit-learn>=1.5.0
+numpy>=1.26.0
+pandas>=2.2.0
+tiktoken>=0.9.0
